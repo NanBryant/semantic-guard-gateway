@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "fact_id",
+    "fact_type",
+    "confidential_level",
+    "fact_text",
+    "fact_summary",
+    "paraphrases",
+    "source",
+    "status"
+  ],
+  "properties": {
+    "fact_id": {
+      "type": "string",
+      "pattern": "^fact_[0-9]{6}$"
+    },
+    "fact_type": {
+      "type": "string",
+      "enum": [
+        "customer_intention",
+        "deployment_plan",
+        "evaluation_result",
+        "incident_information",
+        "internal_decision",
+        "personnel_arrangement",
+        "pricing_strategy",
+        "procurement_plan",
+        "project_progress",
+        "system_architecture",
+        "technical_solution",
+        "vulnerability_status"
+      ]
+    },
+    "confidential_level": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high",
+        "critical"
+      ]
+    },
+    "fact_text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fact_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "paraphrases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 2
+    },
+    "negative_samples": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "const": "simulation"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "active",
+        "inactive"
+      ]
+    }
+  }
+}

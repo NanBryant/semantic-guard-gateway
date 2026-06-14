@@ -1,0 +1,1166 @@
+[
+  {
+    "case_id": "case_000434",
+    "category": "paraphrase_fact",
+    "text": "联调问题清单差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_f1cdb137",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000438",
+    "category": "paraphrase_fact",
+    "text": "接口改造方案差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_b76ac63e",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000442",
+    "category": "paraphrase_fact",
+    "text": "第二批试点范围差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_01fcbfe1",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000446",
+    "category": "paraphrase_fact",
+    "text": "验收材料口径差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_bcb4791a",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000450",
+    "category": "paraphrase_fact",
+    "text": "灰度发布节奏差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_76555529",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000454",
+    "category": "paraphrase_fact",
+    "text": "联调问题清单差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_77c60dde",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000458",
+    "category": "paraphrase_fact",
+    "text": "接口改造方案差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_b2f4addd",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000462",
+    "category": "paraphrase_fact",
+    "text": "第二批试点范围差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_63020833",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000466",
+    "category": "paraphrase_fact",
+    "text": "验收材料口径差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_562908ad",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000470",
+    "category": "paraphrase_fact",
+    "text": "灰度发布节奏差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_206e8da3",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000474",
+    "category": "paraphrase_fact",
+    "text": "联调问题清单差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_95cebb07",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000478",
+    "category": "paraphrase_fact",
+    "text": "接口改造方案差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150721_d0a4f141",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000482",
+    "category": "paraphrase_fact",
+    "text": "第二批试点范围差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_60cfa337",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000486",
+    "category": "paraphrase_fact",
+    "text": "验收材料口径差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_049414e9",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000490",
+    "category": "paraphrase_fact",
+    "text": "灰度发布节奏差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_872105e1",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000494",
+    "category": "paraphrase_fact",
+    "text": "联调问题清单差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_9964b2f2",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000498",
+    "category": "paraphrase_fact",
+    "text": "接口改造方案差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_c13c998b",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000502",
+    "category": "paraphrase_fact",
+    "text": "第二批试点范围差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_12beb5a8",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000580",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，边缘节点设备准备7月先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_eca6dbab",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000584",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，审计采集组件准备月底前先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_1579b77b",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000588",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，测试终端套件准备暑期前后先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_ceac2d5a",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000592",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，日志存储模块准备第二阶段先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_a680c2e8",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000600",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，边缘节点设备准备下季度先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150722_ae76266d",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000604",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，审计采集组件准备7月先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_d9d8c3fc",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000608",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，测试终端套件准备月底前先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_41557c44",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000612",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，日志存储模块准备暑期前后先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_560a6c7f",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000616",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，备份网关准备第二阶段先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_c76cc0c4",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000624",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，审计采集组件准备下季度先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_346a0156",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000628",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，测试终端套件准备7月先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_e768a2db",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000632",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，日志存储模块准备月底前先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_9b9c475a",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000636",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，备份网关准备暑期前后先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_ef598b64",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000640",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，边缘节点设备准备第二阶段先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_70236f4b",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000648",
+    "category": "paraphrase_fact",
+    "text": "采购计划里，测试终端套件准备下季度先走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150723_a3a33305",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000867",
+    "category": "keywordless_fact",
+    "text": "这件事差不多定下来了，就等最后走流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_437c30af",
+      "action": "allow",
+      "risk_score": 0.45,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.45,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000886",
+    "category": "keywordless_fact",
+    "text": "他们现在更想走第二套，只是还没对外说。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_e060702a",
+      "action": "allow",
+      "risk_score": 0.3519,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.3519,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000903",
+    "category": "keywordless_fact",
+    "text": "算法选择内部偏向轻量化规则引擎。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_2f3376de",
+      "action": "allow",
+      "risk_score": 0.3969,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.3969,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000904",
+    "category": "keywordless_fact",
+    "text": "这套方案基本确定采用灰度隔离策略。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_ceaf24f9",
+      "action": "allow",
+      "risk_score": 0.3849,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.3849,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000906",
+    "category": "keywordless_fact",
+    "text": "内部架构里它主要落在统一转发节点。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_24e07752",
+      "action": "allow",
+      "risk_score": 0.7478,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "medium",
+          "risk_score": 0.7478,
+          "risk_types": [
+            "system_architecture"
+          ],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000911",
+    "category": "keywordless_fact",
+    "text": "下一阶段由灰度保障组负责联调。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_987a3160",
+      "action": "allow",
+      "risk_score": 0.5062,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.5062,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000918",
+    "category": "keywordless_fact",
+    "text": "这批设备下月先走采购流程。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_2a514d7b",
+      "action": "allow",
+      "risk_score": 0.416,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.416,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000919",
+    "category": "keywordless_fact",
+    "text": "招标计划内部准备第二阶段启动。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_6da351a2",
+      "action": "allow",
+      "risk_score": 0.2644,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.2644,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_000924",
+    "category": "keywordless_fact",
+    "text": "事故处置结论内部还没有对外同步。",
+    "expected": "block",
+    "predicted": "allow",
+    "raw": {
+      "request_id": "req_20260614_150725_162ff731",
+      "action": "allow",
+      "risk_score": 0.1668,
+      "message": "未检测到保密事实，已发送至模型。",
+      "llm_response": "演示模型回复：未检测到保密事实，本请求已进入模型处理流程。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "low",
+          "risk_score": 0.1668,
+          "risk_types": [],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "allow"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "case_001047",
+    "category": "hard_negative",
+    "text": "帮我整理一份通用的接口兼容性测试检查清单。",
+    "expected": "allow",
+    "predicted": "block",
+    "raw": {
+      "request_id": "req_20260614_150726_b8c90fee",
+      "action": "block",
+      "risk_score": 0.86,
+      "message": "检测到疑似内部保密事实，本次请求已拦截，未发送至模型。",
+      "sentence_results": [
+        {
+          "sentence_id": "s1",
+          "risk_level": "high",
+          "risk_score": 0.86,
+          "risk_types": [
+            "vulnerability_status"
+          ],
+          "evidence_types": [
+            "fact_similarity",
+            "semantic_classifier"
+          ],
+          "action": "block_sentence"
+        }
+      ]
+    }
+  }
+]
