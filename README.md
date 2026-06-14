@@ -1,6 +1,6 @@
 # 电子围栏：句级语义拦截网关
 
-这是把 1-4 号任务合并后的完整演示项目，核心目标是识别“整句话本身表达内部未公开事实”的风险，并在高风险时拦截整段请求，避免将原文发送给模型。
+核心目标是识别“整句话本身表达内部未公开事实”的风险，并在高风险时拦截整段请求，避免将原文发送给模型。
 
 ## 项目结构
 
@@ -16,7 +16,6 @@
 ## 快速开始
 
 ```powershell
-cd C:\Users\27167\Desktop\电子围栏
 python -m pip install -r requirements.txt
 python scripts\generate_simulated_facts.py
 python scripts\validate_fact_schema.py
